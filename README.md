@@ -16,5 +16,6 @@ D9. [斷詞(tokenization)技術介紹](https://github.com/sung-yi-wang/NLPClassi
 D10. [基於詞典與統計的斷詞方法](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D010)  
 D11. 基於統計與深度學習的斷詞方法  
 D12. [NLTK英文斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D012)  
+D13. [SnowNLP、HaNLP斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D013)  
 ## NLP特徵工程技術
 ## 常見的NLP機器學習應用
