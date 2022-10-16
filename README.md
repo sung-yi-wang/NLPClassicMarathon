@@ -18,5 +18,6 @@ D11. 基於統計與深度學習的斷詞方法
 D12. [NLTK英文斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D012)  
 D13. [SnowNLP、HaNLP斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D013)  
 D14. [Jieba 中文斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D014)  
+D15. [CkipTagger繁體中文斷詞工具介紹及應用](https://github.com/sung-yi-wang/NLPClassicMarathon/tree/main/D015)  
 ## NLP特徵工程技術
 ## 常見的NLP機器學習應用
